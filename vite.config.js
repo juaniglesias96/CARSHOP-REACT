@@ -7,5 +7,5 @@ export default defineConfig({
     port:5175,
   },
   plugins: [react()],
-  base:"/",
+  base: "/CARSHOP-REACT/",
 });
